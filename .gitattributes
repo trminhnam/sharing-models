@@ -1,0 +1,8 @@
+ggml-model-q4_k_m.gguf.ag filter=lfs diff=lfs merge=lfs -text
+ggml-model-q4_k_m.gguf.ah filter=lfs diff=lfs merge=lfs -text
+ggml-model-q4_k_m.gguf.aa filter=lfs diff=lfs merge=lfs -text
+ggml-model-q4_k_m.gguf.ab filter=lfs diff=lfs merge=lfs -text
+ggml-model-q4_k_m.gguf.ac filter=lfs diff=lfs merge=lfs -text
+ggml-model-q4_k_m.gguf.ad filter=lfs diff=lfs merge=lfs -text
+ggml-model-q4_k_m.gguf.ae filter=lfs diff=lfs merge=lfs -text
+ggml-model-q4_k_m.gguf.af filter=lfs diff=lfs merge=lfs -text
